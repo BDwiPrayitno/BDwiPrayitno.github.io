@@ -659,42 +659,42 @@ figure.snip1321.hover:after {
   opacity: 0.9;
 }
 
-
 /* Contact Me */
 .footer {
     padding-bottom: 15px;
   }
-  .footer-info {
+.footer-info {
     padding-top: 20px;
   }
   
-  .footer .footer-social {
+.footer .footer-social {
     position: relative;
     margin-top: 15px;
   }
   
-  .footer .footer-social a {
+.footer .footer-social a {
     display: inline-block;
   }
   
-  .email-sukur {
+.email-sukur {
     color: #fff;
   }
   
-  .footer-cntct {
+.footer-cntct {
     font-size: 25px;
   }
 
-  .footer .footer-social a i {
+.footer .footer-social a i {
     margin-left: 30px;
     font-size: 50px;
     transition: 0.3s;
     color: #a43f49;
   }
   
-  .footer .footer-social a:last-child i {
+.footer .footer-social a:last-child i {
     margin: 15px
   }
+
 section.contact-me {
     border-bottom: none;
 }
