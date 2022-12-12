@@ -662,7 +662,7 @@ figure.snip1321.hover:after {
 /* Contact Me */
 .footer {
     padding-bottom: 15px;
-  }
+}
 .footer-info {
     padding-top: 20px;
   }
@@ -694,7 +694,7 @@ figure.snip1321.hover:after {
 .footer .footer-social a:last-child i {
     margin: 15px
   }
-
+  
 section.contact-me {
     border-bottom: none;
 }
